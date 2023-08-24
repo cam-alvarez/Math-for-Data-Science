@@ -1,1 +1,1 @@
-# MathDataSci
+# Math for Data Science
