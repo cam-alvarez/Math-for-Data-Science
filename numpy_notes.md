@@ -1,23 +1,8 @@
-Certainly, Markdown is a great way to format README files. Below is the information reformatted in Markdown syntax. This will make it more readable when viewed on platforms like GitHub:
-
 ---
 
-```markdown
 # NumPy and Matplotlib Functionality README
 
 This README is intended to explain some common functions in NumPy and Matplotlib: `np.zeros`, `np.ones`, `np.eye`, `plt.imshow`, `plt.plot`, and `np.linspace`. These functions are essential building blocks for anyone entering the fields of data science, analytics, or scientific computing.
-
----
-
-## Table of Contents
-1. [NumPy Functions](#numpy-functions)
-    - [np.zeros](#npzeros)
-    - [np.ones](#npones)
-    - [np.eye](#npeye)
-2. [Matplotlib Functions](#matplotlib-functions)
-    - [plt.imshow](#pltimshow)
-    - [plt.plot](#pltplot)
-3. [NumPy.linspace](#nplinspace)
 
 ---
 
@@ -157,6 +142,4 @@ x = np.linspace(0, 10, 50)
 When you need evenly spaced intervals, often as the x-axis for plotting functions.
 
 ---
-```
 
-Copy and paste this into a Markdown editor (or just name the file `README.md` if you're saving it) to see the formatted version. This should provide a more structured and visually pleasing way to digest the information. Given your focus on gaining proficiency in programming and data science topics, a Markdown-formatted README can be a useful resource to refer back to.
