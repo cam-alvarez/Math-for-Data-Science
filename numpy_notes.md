@@ -1,11 +1,3 @@
----
-
-# NumPy and Matplotlib Functionality README
-
-This README is intended to explain some common functions in NumPy and Matplotlib: `np.zeros`, `np.ones`, `np.eye`, `plt.imshow`, `plt.plot`, and `np.linspace`. These functions are essential building blocks for anyone entering the fields of data science, analytics, or scientific computing.
-
----
-
 ## NumPy Functions
 
 NumPy is a Python library for numerical operations and is a backbone for many other scientific computing libraries.
