@@ -9,3 +9,5 @@
 <img src="https://uploads-ssl.webflow.com/5b1d427ae0c922e912eda447/5b567a0c7e0e9823d4098013_letrois.jpg">
 
 
+### Colab Notebooks
+[Notebook 1 - w/ smiling vs. non-smiling dataset](https://colab.research.google.com/drive/1HwCk8UUpXwHaHHSMWQeFdXN0OJLCV-Tx)https://colab.research.google.com/drive/1HwCk8UUpXwHaHHSMWQeFdXN0OJLCV-Tx
