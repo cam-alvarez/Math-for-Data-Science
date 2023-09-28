@@ -1,6 +1,5 @@
 # Intro to PyTorch
 
----
 
 ## Table of Contents
 
