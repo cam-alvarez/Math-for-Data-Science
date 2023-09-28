@@ -1,4 +1,17 @@
+
 # Understanding Images as Matrices
+
+## Table of Contents
+1. [Black and White Images](#black-and-white-images)
+   - [Creating a Black and White Image](#creating-a-black-and-white-image)
+   - [Displaying the Black and White Image](#displaying-the-black-and-white-image)
+   - [Thresholding in Black and White Images](#thresholding-in-black-and-white-images)
+2. [RGB Images](#rgb-images)
+   - [Creating an RGB Image](#creating-an-rgb-image)
+   - [Displaying the RGB Image](#displaying-the-rgb-image)
+   - [Swapping Color Channels](#swapping-color-channels)
+3. [Mathematical Concepts Behind Image Representation](#mathematical-concepts-behind-image-representation)
+---
 
 Images are a common form of data in machine learning tasks, especially in domains like computer vision. Representing images as matrices is fundamental for processing and analyzing them. In this guide, we will explore how images can be represented as numerical matrices and manipulated using Python, forming the basis for further machine learning applications.
 
