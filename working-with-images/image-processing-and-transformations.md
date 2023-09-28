@@ -24,7 +24,6 @@ Real-world applications often require loading images from external sources, resi
 Using **`skimage`**, loading an image from a URL is straightforward with the **`imread`** function, which reads images from local paths and URLs.
 
 ```python
-pythonCopy code
 from skimage.io import imread
 import matplotlib.pyplot as plt
 
@@ -43,7 +42,6 @@ plt.show()
 Resizing is necessary to standardize dimensions. Utilize the **`skimage.transform.resize`** method to resize images.
 
 ```python
-pythonCopy code
 from skimage.transform import resize
 
 # Resizing the image to 100 x100 pixels
@@ -59,7 +57,6 @@ plt.show()
 Cropping is performed by selecting a region of interest using indexing.
 
 ```python
-pythonCopy code
 # Cropping the central part of the image
 height, width, _ = im.shape
 cropped_image = im[height//4:3*height//4, width//4:3*width//4]
@@ -74,7 +71,6 @@ plt.show()
 Combine these techniques to process an image effectively.
 
 ```python
-pythonCopy code
 # Load the image
 image = imread(url)
 # Resize it
@@ -96,7 +92,6 @@ Image transformations are crucial for pre-processing, data augmentation, and var
 Load an image using the same method as in previous chapters of the textbook.
 
 ```python
-pythonCopy code
 from skimage.io import imread
 
 url = 'https://example.com/image.jpg'
@@ -112,7 +107,6 @@ plt.show()
 Resize images to normalize them to consistent dimensions or reduce computational requirements.
 
 ```python
-pythonCopy code
 from skimage.transform import resize
 
 resized_image = resize(image, (50, 50))
@@ -127,7 +121,6 @@ plt.show()
 Rotation is used for data augmentation or to correct the orientation of an image.
 
 ```python
-pythonCopy code
 from skimage.transform import rotate
 
 rotated_image = rotate(image, angle=45)
@@ -142,7 +135,6 @@ plt.show()
 Flipping creates reflections of the image, often used for data augmentation.
 
 ```python
-pythonCopy code
 from skimage.transform import hflip
 
 flipped_image = hflip(image)
@@ -157,7 +149,6 @@ plt.show()
 Transformations can be combined to create complex effects or extensive data augmentations.
 
 ```python
-pythonCopy code
 # Combining resize, rotate, and flip
 combined_image = hflip(rotate(resize(image, (100, 100)), angle=30))
 
