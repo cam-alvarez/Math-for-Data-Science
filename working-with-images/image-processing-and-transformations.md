@@ -1,18 +1,17 @@
 # Image Processing Techniques and Transformations
 
-## **Table of Contents**
-
-1. **[Loading, Resizing, and Cropping Images](https://chat.openai.com/c/57f3bfbe-2b22-4b72-b876-428764a0299e#loading-resizing-and-cropping-images)**
-    - **[Loading an Image from a URL](https://chat.openai.com/c/57f3bfbe-2b22-4b72-b876-428764a0299e#loading-an-image-from-a-url)**
-    - **[Resizing Images](https://chat.openai.com/c/57f3bfbe-2b22-4b72-b876-428764a0299e#resizing-images)**
-    - **[Cropping Images with Indexing](https://chat.openai.com/c/57f3bfbe-2b22-4b72-b876-428764a0299e#cropping-images-with-indexing)**
-    - **[Combining Loading, Resizing, and Cropping](https://chat.openai.com/c/57f3bfbe-2b22-4b72-b876-428764a0299e#combining-loading-resizing-and-cropping)**
-2. **[Image Transformations](https://chat.openai.com/c/57f3bfbe-2b22-4b72-b876-428764a0299e#image-transformations)**
-    - **[Loading an Image](https://chat.openai.com/c/57f3bfbe-2b22-4b72-b876-428764a0299e#loading-an-image)**
-    - **[Resizing Images](https://chat.openai.com/c/57f3bfbe-2b22-4b72-b876-428764a0299e#resizing-images-1)**
-    - **[Rotating Images](https://chat.openai.com/c/57f3bfbe-2b22-4b72-b876-428764a0299e#rotating-images)**
-    - **[Flipping Images](https://chat.openai.com/c/57f3bfbe-2b22-4b72-b876-428764a0299e#flipping-images)**
-    - **[Combining Transformations](https://chat.openai.com/c/57f3bfbe-2b22-4b72-b876-428764a0299e#combining-transformations)**
+## Table of Contents
+1. [Loading, Resizing, and Cropping Images](#loading-resizing-and-cropping-images)
+    - [Loading an Image from a URL](#loading-an-image-from-a-url)
+    - [Resizing Images](#resizing-images)
+    - [Cropping Images with Indexing](#cropping-images-with-indexing)
+    - [Combining Loading, Resizing, and Cropping](#combining-loading-resizing-and-cropping)
+2. [Image Transformations](#image-transformations)
+    - [Loading an Image](#loading-an-image)
+    - [Resizing Images](#resizing-images-1)
+    - [Rotating Images](#rotating-images)
+    - [Flipping Images](#flipping-images)
+    - [Combining Transformations](#combining-transformations)
 
 ---
 
