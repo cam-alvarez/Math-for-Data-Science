@@ -2,8 +2,6 @@
 
 ## Table of Contents
 
-## Table of Contents
-
 1. [Introduction to NumPy](#introduction-to-numpy)
 2. [Installing NumPy](#installing-numpy)
 3. [Basic Operations](#basic-operations)
