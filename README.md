@@ -2,7 +2,7 @@
 
 ## My Portfolio Site
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cam-alvarez&repo=Personal-Portfolio-and-Blog\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/cam-alvarez/Personal-Portfolio-and-Blog)
-
+---
 <details>
   <summary><h2><strong> 📚 Learning Resources</strong></h2></summary>
 
@@ -25,8 +25,11 @@
   - [Smiling vs. Non-Smiling Dataset](https://docs.google.com/presentation/d/1LDDAGeMAI8bAQunT5-fR2RQIVdAEHhksmrewBhtb1_g/edit?usp=sharing)
 </details>
 
-### Colab Notebooks
-[Notebook 1 - w/ smiling vs. non-smiling dataset](https://colab.research.google.com/drive/1HwCk8UUpXwHaHHSMWQeFdXN0OJLCV-Tx)
+<details>
+  <summary><h2><strong> 📓 Colab Notebooks</strong></h2></summary>
 
-[MNIST Dataset](https://colab.research.google.com/drive/1KVU1jrINEB7e-bj1xAQEurT2ljYWYZRg)
+  - [Notebook 1 - w/ smiling vs. non-smiling dataset](https://colab.research.google.com/drive/1HwCk8UUpXwHaHHSMWQeFdXN0OJLCV-Tx)
+
+  - [MNIST Dataset](https://colab.research.google.com/drive/1KVU1jrINEB7e-bj1xAQEurT2ljYWYZRg)
+</details>
 
