@@ -12,7 +12,7 @@
 
 
 <details>
-  <summary><h2><strong><u>Learning Resources (click to expand)</u></strong></h2></summary>
+  <summary><h2><strong>Learning Resources (click to expand)</strong></h2></summary>
 
   ### Libraries, Tools, and Guides
   - [Intro to Numpy](./learning-resources/libraries-tools-guides/intro-to-numpy.md)
