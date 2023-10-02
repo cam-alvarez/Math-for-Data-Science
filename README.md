@@ -19,9 +19,11 @@
   - [Images as Matrices](./learning-resources/working-with-images/images-as-matrices.md)
 </details>
 
-### My Datasets
-[Smiling vs. Non-Smiling Dataset](https://docs.google.com/presentation/d/1LDDAGeMAI8bAQunT5-fR2RQIVdAEHhksmrewBhtb1_g/edit?usp=sharing)
+<details>
+  <summary><h2><strong> 📁 My Datasets</strong></h2></summary>
 
+[Smiling vs. Non-Smiling Dataset](https://docs.google.com/presentation/d/1LDDAGeMAI8bAQunT5-fR2RQIVdAEHhksmrewBhtb1_g/edit?usp=sharing)
+</details>
 
 ### Colab Notebooks
 [Notebook 1 - w/ smiling vs. non-smiling dataset](https://colab.research.google.com/drive/1HwCk8UUpXwHaHHSMWQeFdXN0OJLCV-Tx)
