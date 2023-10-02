@@ -22,3 +22,6 @@
 - [Image Tensor Indexing](./learning-resources/working-with-images/image-tensor-indexing.md)
 - [Image Vector Reshaping](./learning-resources/working-with-images/image-vector-reshaping.md)
 - [Images as Matrices](./learning-resources/working-with-images/images-as-matrices.md)
+
+### My Portfolio Site
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cam-alvarez&repo=Personal-Portfolio-and-Blog)](https://github.com/cam-alvarez/Personal-Portfolio-and-Blog)
