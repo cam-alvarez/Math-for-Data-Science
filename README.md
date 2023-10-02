@@ -25,7 +25,7 @@
 - [Images as Matrices](./learning-resources/working-with-images/images-as-matrices.md)
 
 <details>
-  <summary>## Table of Contents (click to expand)</summary>
+  <summary><h2><strong>Learning Resources (click to expand)</strong></h2></summary>
 
   ### Libraries, Tools, and Guides
   - [Intro to Numpy](./learning-resources/libraries-tools-guides/intro-to-numpy.md)
@@ -39,4 +39,3 @@
   - [Image Vector Reshaping](./learning-resources/working-with-images/image-vector-reshaping.md)
   - [Images as Matrices](./learning-resources/working-with-images/images-as-matrices.md)
 </details>
-
