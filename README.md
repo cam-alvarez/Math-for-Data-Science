@@ -2,7 +2,7 @@
 
 ## My Portfolio Site
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cam-alvarez&repo=Personal-Portfolio-and-Blog\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/cam-alvarez/Personal-Portfolio-and-Blog)
----
+
 <details>
   <summary><h2><strong> 📚 Learning Resources</strong></h2></summary>
 
