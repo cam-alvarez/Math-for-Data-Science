@@ -18,13 +18,13 @@
   - [Image Vector Reshaping](./learning-resources/working-with-images/image-vector-reshaping.md)
   - [Images as Matrices](./learning-resources/working-with-images/images-as-matrices.md)
 </details>
-
+---
 <details>
   <summary><h2><strong> 📁 My Datasets</strong></h2></summary>
 
   - [Smiling vs. Non-Smiling Dataset](https://docs.google.com/presentation/d/1LDDAGeMAI8bAQunT5-fR2RQIVdAEHhksmrewBhtb1_g/edit?usp=sharing)
 </details>
-
+---
 <details>
   <summary><h2><strong> 📓 Colab Notebooks</strong></h2></summary>
 
