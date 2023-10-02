@@ -1,4 +1,5 @@
-# Math for Data Science
+## My Portfolio Site
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cam-alvarez&repo=Personal-Portfolio-and-Blog\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/cam-alvarez/Personal-Portfolio-and-Blog)
 
 ### My Datasets
 [Smiling vs. Non-Smiling Dataset](https://docs.google.com/presentation/d/1LDDAGeMAI8bAQunT5-fR2RQIVdAEHhksmrewBhtb1_g/edit?usp=sharing)
@@ -23,5 +24,4 @@
 - [Image Vector Reshaping](./learning-resources/working-with-images/image-vector-reshaping.md)
 - [Images as Matrices](./learning-resources/working-with-images/images-as-matrices.md)
 
-### My Portfolio Site
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cam-alvarez&repo=Personal-Portfolio-and-Blog\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/cam-alvarez/Personal-Portfolio-and-Blog)
+
