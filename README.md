@@ -24,4 +24,19 @@
 - [Image Vector Reshaping](./learning-resources/working-with-images/image-vector-reshaping.md)
 - [Images as Matrices](./learning-resources/working-with-images/images-as-matrices.md)
 
+<details>
+  <summary>## Table of Contents (click to expand)</summary>
+
+  ### Libraries, Tools, and Guides
+  - [Intro to Numpy](./learning-resources/libraries-tools-guides/intro-to-numpy.md)
+  - [Intro to Pandas](./learning-resources/libraries-tools-guides/intro-to-pandas.md)
+  - [Intro to PyTorch](./learning-resources/libraries-tools-guides/intro-to-pytorch.md)
+
+  ### Working with Images
+  - [Image Indexing](./learning-resources/working-with-images/image-indexing.md)
+  - [Image Processing and Transformations](./learning-resources/working-with-images/image-processing-and-transformations.md)
+  - [Image Tensor Indexing](./learning-resources/working-with-images/image-tensor-indexing.md)
+  - [Image Vector Reshaping](./learning-resources/working-with-images/image-vector-reshaping.md)
+  - [Images as Matrices](./learning-resources/working-with-images/images-as-matrices.md)
+</details>
 
