@@ -1,4 +1,5 @@
-![Header image](https://github.com/cam-alvarez/Math-for-Data-Science/blob/3cce3a4cdc2ac80564c1c8f21f6db3864014b446/assets/Math%20for%20Data%20Science.png)
+<div align="center"> <img src="https://github.com/cam-alvarez/Math-for-Data-Science/blob/3cce3a4cdc2ac80564c1c8f21f6db3864014b446/assets/Math%20for%20Data%20Science.png"> </div>
+
 ## My Portfolio Site
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cam-alvarez&repo=Personal-Portfolio-and-Blog\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/cam-alvarez/Personal-Portfolio-and-Blog)
 
