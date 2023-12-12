@@ -7,7 +7,7 @@
 ---
 <details>
   <summary><h2><strong> 📄 Resume </strong></h2></summary>
-  - [Intro to Numpy](./learning-resources/libraries-tools-guides/intro-to-numpy.md)
+  - [Resume](https://github.com/cam-alvarez/Math-for-Data-Science/blob/main/assets/Camila%20Alvarez%20-%20Data%20Science%20Resume.pdf)
 
 </details>
 
