@@ -6,10 +6,11 @@
 [Link to Web Tool Demos](https://cam-portfolio-blog.netlify.app/school)
 ---
 <details>
-  <summary><h2><strong> 📄 Resume </strong></h2></summary>
-  - [Resume](https://github.com/cam-alvarez/Math-for-Data-Science/blob/main/assets/Camila%20Alvarez%20-%20Data%20Science%20Resume.pdf)
+  <summary><h2><strong> 📄 Resume</strong></h2></summary>
 
+  - [Camila Alvarez - Resume](https://github.com/cam-alvarez/Math-for-Data-Science/blob/main/assets/Camila%20Alvarez%20-%20Data%20Science%20Resume.pdf)
 </details>
+
 
 <details>
   <summary><h2><strong> 📚 Learning Resources</strong></h2></summary>
