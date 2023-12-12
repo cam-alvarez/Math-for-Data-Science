@@ -6,6 +6,12 @@
 [Link to Web Tool Demos](https://cam-portfolio-blog.netlify.app/school)
 ---
 <details>
+  <summary><h2><strong> 📄 Resume </strong></h2></summary>
+  - [Intro to Numpy](./learning-resources/libraries-tools-guides/intro-to-numpy.md)
+
+</details>
+
+<details>
   <summary><h2><strong> 📚 Learning Resources</strong></h2></summary>
 
   ### Libraries, Tools, and Guides
